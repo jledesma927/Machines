@@ -1,0 +1,3 @@
+/Users/jledesma1/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jledesma1/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jledesma1/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir
